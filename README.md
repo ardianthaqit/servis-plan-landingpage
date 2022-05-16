@@ -1,6 +1,6 @@
 # Starter Template
 
-This starter template is created by Arlind Ramadani <arlindramadani34@gmail.com>
+This starter template is created by Ardijan Thaçi <ardianthaqit2014@gmail.com>
 and it has all the fundamentals to create a page using grunt and bootstrap
 
 ## Installation
