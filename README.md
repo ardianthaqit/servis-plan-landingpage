@@ -1,8 +1,5 @@
 # Starter Template
 
-This starter template is created by Ardijan Thaçi <ardianthaqit2014@gmail.com>
-and it has all the fundamentals to create a page using grunt and bootstrap
-
 ## Installation
 
 Step #1: Install node modules 
